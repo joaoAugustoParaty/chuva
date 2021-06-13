@@ -31,17 +31,52 @@ body {
     background: #FDF1EB;
 }
 
-#divtop3{
-    background: #FFB354;  
+#divtop2 p{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #725C5C;
 }
 
-#divtopmenu h1{
-    background-color: aquamarine;
+#divtop2 span{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+position: relative;
+color: #725C5C;
 }
-#divtop3 h1{
+
+#divtop3{  
+    margin-left: 43px;
+    margin-top: 20px;
+    margin-right: 45px;
     
-
 }
+#divtop3 p
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+    /* or 125% */
+    
+    letter-spacing: 0.05em;
+    
+    color: #ED7839;
+    position: absolute;
+}
+
+#divtopmenu{
+    border: 1px solid;
+}
+
 
 
 
