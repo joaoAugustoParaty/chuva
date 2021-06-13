@@ -32,12 +32,14 @@ body {
 }
 
 #divtop2 p{
+
 font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 16px;
 color: #725C5C;
+margin-left: 36px;
 }
 
 #divtop2 span{
