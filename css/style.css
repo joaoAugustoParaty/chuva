@@ -12,8 +12,13 @@ body {
 
 .badge
 {
-    margin-left: 14px;
-    font-size: small;
+    margin-left: 18px;
+    
+}
+
+#dropdownMenuButton2{
+    border: solid 1px #CCCCCC;
+    border-radius: 3px;
 }
 
 
@@ -112,7 +117,7 @@ color: #725C5C;
 
 
 #divtopmenu{
-    border: 1px solid;
+    
 }
 
 
